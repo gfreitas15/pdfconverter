@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## Como Usar
 
-1. Execute o programa:
+1. Execute o programa (ou baixe o executavel):
 ```bash
 python rename.py
 ```
