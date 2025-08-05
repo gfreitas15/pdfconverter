@@ -1,6 +1,7 @@
 # Monitor de Arquivos PDF
 
-Este programa monitora uma pasta e renomeia automaticamente arquivos PDF chamados "Summary.pdf" para "Procuracao Certificado.pdf".
+Programa para monitorar uma pasta selecionada, convertendo arquivos .JPEG. PNG e .JPG para .PDF, e renomeando
+arquivos "Summary.pdf" para "PROCURACAO CERTIFICADO.pdf"
 
 ## Requisitos
 
@@ -23,7 +24,10 @@ python rename.py
 ```
 
 2. Na interface do programa:
-   - Clique em "Selecionar Pasta" para escolher a pasta que deseja monitorar
-   - Clique em "Iniciar Monitoramento" para começar a monitorar a pasta
-   - O programa irá automaticamente renomear qualquer arquivo "Summary.pdf" que for adicionado à pasta para "PROCURACAO CERTIFICADO"
+   - Clique em "Selecionar Pasta" para escolher a pasta que deseja monitorar 
+   - Clique em "Iniciar Monitoramento" para começar a monitorar a pasta 
+   - Caso queira mudar de pasta, pare o monitoramento e inicie novamente para funcionar
+   - Salve os arquivos que deseja convertar para PDF na pasta selecionada
+   - O programa irá automaticamente converter os arquivos para .PDF e renomear qualquer arquivo "Summary.pdf" que for adicionado à pasta para "PROCURACAO CERTIFICADO"
    - Clique em "Parar Monitoramento" para interromper o monitoramento
+   - Clique em "Juntar PDFs" e selecione os arquivos PDF que deseja combinar em um único documento, e escolha o nome desse documento
