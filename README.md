@@ -25,13 +25,5 @@ python rename.py
 2. Na interface do programa:
    - Clique em "Selecionar Pasta" para escolher a pasta que deseja monitorar
    - Clique em "Iniciar Monitoramento" para começar a monitorar a pasta
-   - O programa irá automaticamente renomear qualquer arquivo "Summary.pdf" que for adicionado à pasta
+   - O programa irá automaticamente renomear qualquer arquivo "Summary.pdf" que for adicionado à pasta para "PROCURACAO CERTIFICADO"
    - Clique em "Parar Monitoramento" para interromper o monitoramento
-
-## Funcionalidades
-
-- Interface gráfica amigável
-- Log de atividades com timestamps
-- Monitoramento em tempo real
-- Renomeação automática de arquivos
-- Botões para iniciar e parar o monitoramento 
