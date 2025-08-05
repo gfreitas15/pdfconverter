@@ -1,4 +1,0 @@
-*.py linguist-language=Python
-*.md linguist-documentation=true
-*.tex linguist-documentation=true
-*.html linguist-documentation=true
